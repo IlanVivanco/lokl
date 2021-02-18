@@ -20,7 +20,7 @@ In order to run this container you'll need docker installed.
 ## One-line instant WordPress instance
 
 If you want to take advantage of the full convenience of Lokl, [download the
- management script](https://github.com/lokl-dev/go) or simply run:
+ management script](https://github.com/leonstafford/lokl-cli) or simply run:
 
 `\sh -c "$(curl -sSl 'https://lokl.dev/go?v=4')"`
 
@@ -64,7 +64,8 @@ These sites will then be available at:
  - http://localhost:4321
 
 Remembering your sites by port name is crazy, so best use Lokl's [management
- script](https://github.com/lokl-dev/go) instead!.
+ script](
+ /go) instead!.
 
 
 #### Environment Variables
@@ -184,7 +185,7 @@ Docker does provide the ability to modify the image's `CMD` when launching a
 
 ## Find Us
 
-* [GitHub](https://github.com/lokl-dev/lokl)
+* [GitHub](https://github.com/leonstafford/lokl)
 * [Docker Hub](https://hub.docker.com/r/lokl/lokl/)
 
 ## Contributing
@@ -203,7 +204,7 @@ utility scripts able to be run/imported via the web terminal.
 
 * **Leon Stafford** - [ljs.dev](https://ljs.dev)
 
-See also the list of [contributors](https://github.com/lokl-dev/lokl) who 
+See also the list of [contributors](https://github.com/leonstafford/lokl) who 
 participated in this project.
 
 ## License
