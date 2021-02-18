@@ -163,7 +163,7 @@ And there, we should our ready to run image.
 
 #### Running the provisioned image
 
-[Lokl CLI](https://github.com/lokl-cli) is my client for running an interactive wizard to create and manage Lokl sites. It can be run as an interactive wizard or instantiated with variables to skip the wizard and create a new site with specific details.
+[Lokl CLI](https://github.com/leonstafford/lokl-cli) is my client for running an interactive wizard to create and manage Lokl sites. It can be run as an interactive wizard or instantiated with variables to skip the wizard and create a new site with specific details.
 
 I want to perform the least amount of processes when a user is running the
  container for the first time. I also want to perform these modifications to
